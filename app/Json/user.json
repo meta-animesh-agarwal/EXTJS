@@ -1,0 +1,114 @@
+{
+"data":[
+  {
+    "name" : "Anshul Agarwal",
+    "image" : "https://lh3.googleusercontent.com/-Gkrn50JKdsk/Wp1_PaNm0nI/AAAAAAAAADs/1qEFYtOBV4oYGNxys0E1rxLPA0_fOgyVwCEwYBhgL/w140-h140-p/b44eb36f-0afd-4d50-af14-5b4f6fe311d0",
+    "designation" : "Software Trainee",
+    "address" : "88 Rameshwar Dham, Murlipura , Jaipur , Rajasthan - 302039",
+    "empid" : "E18/0936",
+    "email" : "anshul.agarwal@metacube.com",
+    "interest" : "Cricket , Badminton",
+    "remarks" : "Like to play Cricket and Badminton"
+  },
+  {
+  	"name": "Akshita dixit",
+  	"designation": "software engineer trainee",
+    "image" : "https://goo.gl/B4J7dq",
+  	"address": "UB , jaipur-ajmer highway , jaipur",
+  	"email": "akshita.dixit@metacube.com",
+  	"interest": "badminton,dancing,travelling",
+  	"remarks": "good work",
+  	"empid": "E18/0943"
+  },
+  {
+    "name" : "Animesh Agarwal",
+    "image" : "https://goo.gl/nrxbVG",
+    "designation" : "Software Trainee",
+    "address" : "jaipur",
+    "empid" : "E18/0935",
+    "email" : "animesh.agarwal@metacube.com",
+    "interest" : "games",
+    "remarks" : "Eating Paan and elaichi"
+  },
+  {
+    "name" : "Karan Sharma",
+    "image" : "https://lh3.googleusercontent.com/-67IBBg2Atqg/WnRKaFWDeiI/AAAAAAAAAAs/ls9u6llKCCMc499yb24halMtoQR6KlqEgCEwYBhgL/w139-h140-p/Karan%2BSharma.png",
+    "designation" : "Software Trainee",
+    "address" : "67/40, Sector 6, Pratap Nagar, Jaipur",
+    "empid" : "E18/0938",
+    "email" : "karan.sharma1@metacube.com",
+    "interest" : "Football, Games, Guitar",
+    "remarks" : "Too cool to talk about"
+  },
+  {
+    "name" : "Vinod Patel",
+    "image" : "https://media.licdn.com/dms/image/C5103AQGR1GFUfwCrFA/profile-displayphoto-shrink_200_200/0?e=1526122800&v=alpha&t=lAidLFKnfROlatFu9Vc-qRWa_vKepL0kXQNzrzvVo3g",
+    "designation" : "Software Trainee",
+    "address" : "Mansha Bhawan, Krishna Colony, Udaipur, Rajasthan",
+    "empid" : "E18/0945",
+    "email" : "vinod.patel@metacube.com",
+    "interest" : "Cricket,Music",
+    "remarks" : "I Code hard To make work easy."
+  },
+  {
+    "name" : "Saloni Khandelwal",
+    "image" : "https://goo.gl/8G2Hjx",
+    "designation" : "Software Trainee",
+    "address" : "Krishna Hostel , Mahaveer Colony , India Gate , Sitapura ,Jaipur",
+    "empid" : "E18/0941",
+    "email" : "saloni.khandelwal@metacube.com",
+    "interest" : "Music , Visiting New Places",
+    "remarks" : "I like sweets"
+  },
+  {
+  	"name":"Amit Sharma",
+    "designation":"software trainee ",
+  	"address":"Vikash Hostel, sitapura, Jaipur",
+  	"email":"amit.sharma2@gmail.com",
+  	"empid":"E18/0934",
+  	"interest":"listening song",
+  	"remarks" : "playing games",
+    "image" : "https://goo.gl/dd8cJv"
+  },
+  {
+  	"name": "Jaya Bapna",
+  	"designation": "software trainee",
+  	"address": "Krishna Hostel , Mahaveer Colony , India Gate , Sitapura ,Jaipur",
+  	"email": "jaya.bapna@metacube.com",
+  	"image": "https://lh3.googleusercontent.com/-RhGKcNZuUYA/Wnb4hX_dCrI/AAAAAAAAABE/PnSpzRORrHYa0zP8LBn9XC70hjdjnPyBgCEwYBhgL/w140-h140-p/4ebd6f54-c652-403a-adb2-05fcd2948fa3",
+  	"interest": "Visiting new places",
+  	"remarks": "Good at stalking",
+  	"empid": "E18/0937"
+  },
+  {
+  	"name": "Manisha Gupta",
+  	"designation": "software trainee",
+  	"address": "Krishna Hostel , Mahaveer Colony , India Gate , Sitapura ,Jaipur",
+  	"email": "manisha.gupta1@metacube.com",
+  	"image": "https://goo.gl/Mw1m2M",
+  	"interest": "Visiting new places",
+  	"remarks": "Always studying like nerd",
+  	"empid": "E18/0944"
+  },
+  {
+  	"name": "Satyam Bhadoria",
+  	"designation": "software trainee",
+  	"address": "Vikash Hostel, sitapura, Jaipur",
+  	"email": "satyam.bhadoria@metacube.com",
+  	"image": "http://rjitquiz.16mb.com/images/satyam.jpg",
+  	"interest": "Cricket , Badminton , coding",
+  	"remarks": "Always studying like nerd",
+  	"empid": "E18/0942"
+  },
+  {
+  	"name": "Manasi Pandya",
+  	"designation": "software trainee",
+  	"address": "Krishna Hostel , Mahaveer Colony , India Gate , Sitapura ,Jaipur",
+  	"email": "manasi.pandya@metacube.com",
+  	"image": "https://lh3.googleusercontent.com/-pPo9RLxYycE/Wqe26sMwIpI/AAAAAAAAAHY/iOez5aA7gP4jmRnjcA18MRCxOyDmoS2hwCK8BGAs/s512/8525264646707862030%253Faccount_id%253D5",
+  	"interest": "Visiting new places",
+  	"remarks": "taking selfies",
+  	"empid": "E18/0939"
+  }
+]
+}

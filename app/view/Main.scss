@@ -1,0 +1,20 @@
+*{
+  font-family: 'Roboto';
+}
+.header {
+  background: #2196f3;
+}
+.header .x-title{
+  color : white;
+}
+.titlebarIcon .x-icon-el{
+  color : white;
+  width : 25px;
+  height: 25px;
+}
+.titlebarIcon .x-icon-el:before{
+  font-size: 25px;
+}
+.titlebar-image {
+  border-radius: 50%;
+}

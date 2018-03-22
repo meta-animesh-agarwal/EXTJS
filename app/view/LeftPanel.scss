@@ -1,0 +1,23 @@
+.add-button {
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  background: #2196f3;
+  box-shadow: 5px 5px 15px #999;
+}
+.x-listitem-inner-el {
+    padding: 5px;
+}
+.searchField {
+  padding: 15px;
+}
+.add-button .x-icon-el:before{
+  font-size: 30px;
+}
+.add-button .x-icon-el{
+  width : 30px;
+  height : 30px;
+}
+.add-button .x-icon-el{
+  color : white;
+}
